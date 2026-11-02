@@ -1,0 +1,17 @@
+﻿C:.\Mario Canvas
+|   .gitignore
+|   generate_structure_V2.bat
+|   human.txt
+|   index.html
++---Assets
+|   \---Favicon
+|       |   Favicon.K.sf.blanc.png
+|       \---Favicon.K.sf.png
++---Infos_Structure
++---JavaScript
+|   |   controls.js
+|   |   main.js
+|   |   map.js
+|   \---stickman.js
+\---Style
+    \---style.css
